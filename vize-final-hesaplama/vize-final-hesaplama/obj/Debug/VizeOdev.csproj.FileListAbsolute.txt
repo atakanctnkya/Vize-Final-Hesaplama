@@ -1,0 +1,14 @@
+D:\C#\VizeOdev\VizeOdev\bin\Debug\VizeOdev.exe.config
+D:\C#\VizeOdev\VizeOdev\bin\Debug\VizeOdev.exe
+D:\C#\VizeOdev\VizeOdev\bin\Debug\VizeOdev.pdb
+D:\C#\VizeOdev\VizeOdev\obj\Debug\VizeOdev.csprojAssemblyReference.cache
+D:\C#\VizeOdev\VizeOdev\obj\Debug\VizeOdev.csproj.CoreCompileInputs.cache
+D:\C#\VizeOdev\VizeOdev\obj\Debug\VizeOdev.exe
+D:\C#\VizeOdev\VizeOdev\obj\Debug\VizeOdev.pdb
+D:\C#\1912901057_arasınavödevi\VizeOdev\bin\Debug\VizeOdev.exe.config
+D:\C#\1912901057_arasınavödevi\VizeOdev\bin\Debug\VizeOdev.exe
+D:\C#\1912901057_arasınavödevi\VizeOdev\bin\Debug\VizeOdev.pdb
+D:\C#\1912901057_arasınavödevi\VizeOdev\obj\Debug\VizeOdev.csprojAssemblyReference.cache
+D:\C#\1912901057_arasınavödevi\VizeOdev\obj\Debug\VizeOdev.csproj.CoreCompileInputs.cache
+D:\C#\1912901057_arasınavödevi\VizeOdev\obj\Debug\VizeOdev.exe
+D:\C#\1912901057_arasınavödevi\VizeOdev\obj\Debug\VizeOdev.pdb
